@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Working on Java & Spring Boot backend projects  <br>👯 Open to collaborating on backend & open-source projects  <br>🤝 Seeking help with system design & Spring Security  <br>🌱 Learning DSA, Spring Boot, JWT & SQL  <br>💬 Ask me about Java, DSA & backend basics  <br>⚡ Fun fact: I believe consistency beats talent<br>
 
 
